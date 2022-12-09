@@ -1,4 +1,5 @@
-Data Tools
+                   -- Data Tools --
+
     This module introduced the basics of data inputs and 
 displaying the results on graphs. Many factors come in 
 to play with data sets, especially for the examples used 
@@ -6,8 +7,40 @@ in this module. These grpahs allow the user to determine
 trends and patterns with specific data points and allow 
 for predictions to be made about future results based on 
 the trends and patterns that are shown in the graphs. 
-Big Data
 
-Bias in Machine Learning
+                     -- Big Data --
 
-Unit Test
+    This section focused on large data sets with lots of 
+information. There is so much data in this world. To 
+store all of the data that's out there, every person in 
+the world would need 1000 smartphones to be able to store 
+it. With largedata sets, a couple things need to be 
+considered: How will the data be stored? How can the data 
+be processed efficiently? (Khanacademy.org) Things like
+data centers are created to house thousands of hard drives
+for organizations that use huge amounts of data and need 
+to store it all. 
+
+               -- Bias in Machine Learning --
+    
+    Machine learning is an algorithm that improves itself 
+after gaining experience from processing data and 
+improving itself automatically based on the properties and 
+experience obtained from the data. Much like things learned 
+in the book Hello World, these machine learning algorthims 
+are used for things like networks, the criminal justice
+system to determine if someone is likely to commit a crime, 
+hiring decisions, and much more. As always, there can be 
+lessons learned from the biasesness or inacurate data that
+comes from these algorithms. 
+
+                      -- Unit Test --
+    
+    The unit test showed me that I am familiar with how to 
+read data sets and ask the right questions to efficiently 
+analyze the data and what type of tools are best used for 
+these types of activities. I got 8/9 questions correct. 
+I was surprised by how well I was able to ready and interpret 
+data and be able to determine what different graphs and data
+sets are showing or prediciting based on patterns and trends 
+as well as what type of information is available from the data. 
