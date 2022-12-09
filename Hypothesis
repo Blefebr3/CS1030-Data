@@ -1,18 +1,23 @@
-The data set takes every game in NHL history and takes statistics 
-such as score, win probability, team rating, expected goals, 
-and game importance rating to predict the current years 
-NHL Stanley Cup champion. 
+Who will win the superbowl in 2023?
+
+************************************************************
+
+    The data set takes every game in NFL history and takes statistics 
+    such as score, win probability, team rating, projected elo, 
+    and game importance rating to predict the current years 
+    NFL Superbowl Champion. 
 
 ************************************************************
 
 Questions: 
+    
     How can injuries, especially from a star player, affect the results of this data?
     What will the data patterns show about the likelihood of a team winning if they are the home team?
     How often do teams score their predicted amount?
     How likely is team to win if they have a higher game importance rating?
 
-
+************************************************************
 
 Hypothesis: 
 
-The Colorado Avalanche will be back to back Stanley Cup Champions in 2023. 
+    The Philedelphia Eagles will be Superbowl Champions in 2023. 
