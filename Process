@@ -43,3 +43,13 @@ score2 | Away team's score
 quality | Rating of game's quality, based on the harmonic mean of the teams’ pregame Elo ratings, scaled from 0-100
 importance | Rating of game's importance, based on how much the result would affect the model's forecasted playoff odds, scaled from 0-100
 total_rating | The average of `quality` and `importance`
+
+
+This data set comes from fivethirtyeight.com
+Google sheets was used to organize and analyze the data and was then used to create the bar graph attached to this repository.
+Microsoft Visual studio code was used to organzie this presentation.
+
+After downloading the data sets for NFL teams, the infromation was analyzed using formulas via google sheets / excel to determine the predited winner of each game.
+The teams with the highest records and divisional win perentage were then compared to get the most accurate prediction for a superbowl winner. Based on the results, 
+the Philedelphia Eagles will beat the Buffalo Bills to win the 2023 Superbowl. The data was then imported to make a graph to visually demonstrate the Superbowl chances 
+for each NFL team.
